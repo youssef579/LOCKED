@@ -11,4 +11,4 @@ LOCKED is a dark-speedrun game that is made with [python](https://www.python.org
 
 ## More Info
   
-> u can also download and rate the game on [itch](https://specialgames.itch.io/locked "Game's page on itch.")
+> You can also download and rate the game on [itch](https://specialgames.itch.io/locked "Game's page on itch.")
