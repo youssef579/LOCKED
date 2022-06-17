@@ -1,6 +1,6 @@
 # LOCKED
   
-LOCKED is a dark-speedrun game that is made with [python](https://www.python.org/) and [pygame](https://www.pygame.org/ "a python module to build games.").  
+LOCKED is a dark-speedrun game that is made with <a href="https://www.python.org/" target="_blank">python</a> and [pygame](https://www.pygame.org/ "a python module to build games.").  
 
 ## How To Run
   
